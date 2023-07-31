@@ -14,7 +14,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/work' element={<Work/>}/>
-        <Route path='/contact' element={<Contact/>}/>
+        <Route path='/resume' element={<Contact/>}/>
       </Routes>
     <div className='mt-auto'>
       <Footer />
