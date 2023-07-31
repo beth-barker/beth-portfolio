@@ -17,7 +17,7 @@ function Footer() {
         </div>
         <div className="flex m-5 items-center">
         <BiPhoneCall/>
-        <p className="m-3">801-857-9886</p>
+        <p className="m-3">801-917-6043</p>
         </div>
       </div>
       <div className="flex items-center mx-10">
