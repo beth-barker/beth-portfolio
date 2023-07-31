@@ -2,7 +2,7 @@
 import './App.css';
 import Header from './Header.js'
 import Footer from './Footer'
-import Contact from './Resume.js'
+import Resume from './Resume.js'
 import Work from './Work.js'
 import Home from './Home.js'
 import { Route, Routes, Navigate} from 'react-router-dom'
@@ -14,7 +14,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/work' element={<Work/>}/>
-        <Route path='/resume' element={<Contact/>}/>
+        <Route path='/resume' element={<Resume/>}/>
       </Routes>
     <div className='mt-auto'>
       <Footer />

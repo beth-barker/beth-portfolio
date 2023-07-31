@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Contact(props) {
+function Resume(props) {
     return (
         <div className='flex flex-col text-lg mx-16'>
             <div>
@@ -51,4 +51,4 @@ function Contact(props) {
     );
 }
 
-export default Contact;
+export default Resume;

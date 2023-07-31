@@ -10,7 +10,7 @@ function header() {
             <p>|</p>
             <NavLink className='mx-2 hover:text-lime hover:underline' to='/work'>My Work</NavLink>
             <p>|</p>
-            <NavLink className='mx-2 hover:text-lime hover:underline' to='/contact'>Resume</NavLink>
+            <NavLink className='mx-2 hover:text-lime hover:underline' to='/resume'>Resume</NavLink>
         </nav>
         </div>
         </div>
