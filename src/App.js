@@ -1,8 +1,8 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './Header.js'
 import Footer from './Footer'
-import Contact from './Contact.js'
+import Contact from './Resume.js'
 import Work from './Work.js'
 import Home from './Home.js'
 import { Route, Routes, Navigate} from 'react-router-dom'
