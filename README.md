@@ -2,7 +2,9 @@
 
 ### Deploy
 
-`netlify deploy`
+`netlify build`
+`netlify deploy --prod`
+    `build`
 
 ## Getting Started with Create React App
 
