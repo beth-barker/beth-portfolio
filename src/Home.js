@@ -15,7 +15,7 @@ function Home(props) {
                 </div>
                 <div className='flex flex-col items-start w-3/12'>
                     <p className='mb-5 font-bold'>About Me:</p>
-                    <p className='text-left mb-5'>Hi, I'm Beth! I'm a recent coding bootcamp grad. I focused on Web Development, especially React. I also graduated with of Bachelor of Science in Information Systems in 2020. I'm passionate about data, development, and problem solving. I love working with a team or individually to solve problems effeciently. </p>
+                    <p className='text-left mb-5'>Hi, I'm Beth! I'm a Web Developer who is passionate about data and problem solving. I love working with a team or individually to solve problems effeciently. </p>
                     <p className='text-left'>I'm based in Salt Lake City. I'm adventurous and love to try new things. I love to travel and have visted 40 countries. I like to do anything outdoors especially camping, hiking, and paddleboarding. </p>
                     
                 </div>

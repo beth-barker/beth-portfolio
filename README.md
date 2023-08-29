@@ -1,8 +1,8 @@
 # Beth Portfolio
 
 ### Deploy
-
-`netlify build`
+`sudo rm -rf build`
+`npm run build`
 `netlify deploy --prod`
     `build`
 
